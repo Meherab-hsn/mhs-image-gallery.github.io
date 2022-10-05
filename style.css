@@ -41,6 +41,7 @@ h3{
     color:whitesmoke;
     background: black;
     border-style: inset;
+    margin-buttom: 10px;
 }
 .bd {
     text-align: center;
@@ -51,9 +52,6 @@ h3{
     text-align: center;
     margin-top: 10px;
 }
-.song {
 
-
-}
     @media all and (max-width:30em)
 
