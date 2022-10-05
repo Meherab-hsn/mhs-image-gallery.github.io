@@ -33,8 +33,8 @@ h3{
 .buttons {
     display: flexbox;
 
-    padding: 11px;
-    margin: 11px;;
+    padding: 8px;
+    margin: 8px;;
     border-radius:40px;
     font-weight:450;
     font-family: Segoe UI;
