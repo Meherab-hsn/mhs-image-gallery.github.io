@@ -21,13 +21,16 @@
 }
 h1{
     font-size: 40px;
-    font-family: ArialBlack
-
-    ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
 }
 
 h3{
-    font-family: Papyrus;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 50;
+    font-weight: 450;
+}
 }
 
 .buttons {
