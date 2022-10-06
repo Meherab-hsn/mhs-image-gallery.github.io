@@ -20,7 +20,7 @@
     text-align: center;
 }
 h1{
-    font-size: 55px;
+    font-size: 50px;
     line-height: 100px;
     color: transparent;
     -webkit-text-stroke: 1px #000000;
@@ -40,8 +40,7 @@ h1{
 h3{
     font-family: 'Times New Roman', Times, serif;
     font-style: italic;
-    font-size: 50;
-    font-weight: 450;
+    font-weight: 250;
 }
 
 .buttons {
